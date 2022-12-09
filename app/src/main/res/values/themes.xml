@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.JK_0048_contentlist_v1" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:colorBackground">@color/primary_light</item>
+    </style>
+</resources>

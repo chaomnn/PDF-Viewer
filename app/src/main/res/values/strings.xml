@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JK_0048_contentlist_v1</string>
+    <string name="add_favorite">Add to favorites</string>
+    <string name="page">Page: %1$s</string>
+    <string name="progress">%1$d/%2$d</string>
+</resources>
